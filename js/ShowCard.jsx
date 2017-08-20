@@ -1,5 +1,5 @@
 import React from 'react';
-import { shape, string } from 'prop-types';
+import { string } from 'prop-types';
 import styled from 'styled-components';
 
 const Wrapper = styled.div`
