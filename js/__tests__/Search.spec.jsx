@@ -6,4 +6,3 @@ test('Search renders correctly', () => {
   const component = shallow(<Search />);
   expect(component).toMatchSnapshot();
 });
-````;
